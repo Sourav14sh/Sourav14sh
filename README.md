@@ -8,7 +8,7 @@
   <tr>
     <!-- Left: Profile GIF -->
     <td style="padding-right: 15px;">
-      <img src="profile.gif" alt="Profile Image" width="180" style="border-radius: 10px;"/>
+      <img src="https://github.com/Sourav14sh/Sourav14sh/blob/main/profile.gif.gif?raw=true" alt="Profile Image" width="180" style="border-radius: 10px;"/>
     </td>
     <!-- Right: Name -->
     <td>
