@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="cover-img.jpeg" alt="cover" width="100%" />
+  <img src="https://github.com/Sourav14sh/Sourav14sh/blob/main/coverpage.png?raw=true" alt="cover" width="100%" />
 </p>
 
 <!-- Profile Image + Name (Side by Side) -->
